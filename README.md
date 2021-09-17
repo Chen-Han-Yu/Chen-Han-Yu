@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chen-Han-Yu.
+- 👋 Hi, I’m @Han-Yu C.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning Python, R, SQL, and some visualization tools.
 - 💞️ I’m planning what is the next step learning, for creating an entire project. 
