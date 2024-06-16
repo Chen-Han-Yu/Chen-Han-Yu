@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Han-Yu Chen.
-- 👀 I’m interested in Data Analysis.
+- 👀 I’m interested in Data Analysis. Now, I'm a Data Engineer in Retail Service and have a Microsoft DP-203 certification. 
 - 🌱 I’m currently learning Python, R, SQL, and some visualization tools.
 - 💞️ I’m planning what is the next step learning, for creating an entire project. 
 - 📫 How to reach me...
